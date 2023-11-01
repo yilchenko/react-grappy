@@ -31,7 +31,7 @@ Install this utility in your web project:
 ### 4. In your web application code, import the Grappy component:
 ```javascript
 import React from 'react';
-import Grappy from 'react-grappy';
+import { Grappy } from 'react-grappy';
 
 function App() {
   const grappyProjectURL = 'https://your-grappy-project-url.com';
