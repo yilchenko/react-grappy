@@ -1,7 +1,7 @@
 {
   "name": "react-grappy",
   "description": "A library for integrating web graphs and diagrams into react applications.",
-  "version": "1.1.19",
+  "version": "1.1.20",
   "type": "module",
   "author": "yilchenko",
   "license": "ISC",
